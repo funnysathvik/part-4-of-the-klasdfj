@@ -1,0 +1,40 @@
+body
+{
+
+}
+
+canvas{
+    top: 0;
+    position: fixed;
+}
+
+.heading{
+    width: 100%;
+    top: 0;
+    margin-top: 0;
+    font-size: x-large;
+    align-items: center;
+}
+
+.instructions{
+    float: right;
+    border: 1px solid white;
+}
+
+.footer{
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    position: fixed;
+    color: red;
+    background-color: white;
+}
+
+.modal-dialog{
+    width: 90%;
+}
+
+
+canvas{
+    border-radius: 10px;
+}
